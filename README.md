@@ -58,9 +58,9 @@ Sistema resolver o problema da ineficiência, desorganização e alto risco de e
 
 6- Primeiro entre na massa do backend, npm install e depois npm run dev
 
-7- abra outra operação cmd, entre na massa frontend, npm install e por último node.js
+7- Abra outra operação cmd, entre na massa frontend, npm install e por último node.js
 
-8- digite http://localhost:3000
+8- Digite na barra de pesquisa lá em cima do seu navegador, para acessar o site: http://localhost:3000
 
 <forte>O site foi iniciado com sucesso!</forte>
 <hora>
