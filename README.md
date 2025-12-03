@@ -38,8 +38,8 @@ Sistema resolver o problema da ineficiência, desorganização e alto risco de e
 
 <hora>
 <forte> <h2>Como executar o projeto</h2></forte>
-<forte>Siga todos os passos para o site ser executado </forte>
-
+<forte>Siga todos os passos para o site ser executado: </forte>
+<BR>
 1- Entre no link para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação).
 
 2- Entre no link para instalar o xampp: https://www.apachefriends.org/pt_br/download.html (Baixa o pacote base para seu sistema e siga os passos de instalação)
