@@ -1,4 +1,4 @@
-<imagem larga="680" alta="115" alt="Conecthar" fonte="https://github.com/user-attachments/assets/8297761b-da72-42a6-9e7e-761065af8675" estilo="exibir: bloquear; margem esquerda: auto; margem direita: auto;"/>
+<imagem larga="680" alta="115" alt="Conecthar" fonte="https://github.com/user-attachments/assets/8297761b-da72-42a6-9e7e-761065af8675"/>
 
 <forte> <h1>TCC-ETECAMP-CONECTHAR</h1></forte>
 <hora>
