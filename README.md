@@ -15,16 +15,21 @@ Sistema resolver o problema da ineficiência, desorganização e alto risco de e
 -Rebecca Bordignon de Oliveira- Back-end.
 
 <forte> <h2>Tecnologia Utilizadas no sistema</h2></forte>
--HTML-V5
--CSS- V3 
--SCRIPT JAVA - ECMAScript 2024 (ES2024)
-
-
--MYSQL- 8.0
-NODE.JS- v22.17.1
-GUIA- 4.7.8
+<ul>
+ <li>HTML-Versão 5</li>
+ <li>CSS- Versão 3 </li>
+ <li>SCRIPT JAVA - ECMAScript 2024 (ES2024)</li>
+</ul>
+<br>
+<ul>
+ <li>MYSQL- 8.0</li>
+ <li>NODE.JS- v22.17.1</li>
+ <li>HANDLEBARS - 4.7.8</li>
+</ul>
+<BR>
 
 <forte> Algumas imagens do site</h2></forte>
+
 <img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/a6347c24-f4e6-48a9-81e7-f74a80fd3f81" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/8421f689-ab69-4141-b9a8-0fd6e1e78cf4" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/febcac52-472a-470d-b711-b6252d6903e8" />
