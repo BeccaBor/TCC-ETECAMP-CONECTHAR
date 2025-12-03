@@ -62,6 +62,7 @@ GUIA- 4.7.8
 
 De Oliveira, Ana Luiza Teodoro Corrêa; Dos Reis, Ramón Viana Ferreira; Bordignon, Rebeca. Desenvolvimento de uma plataforma aoara auxiliar na gestão documental e folha de pagamento do departamento pessoal em empresas de meio e pequeno porte. 2025. 35 p.
 
-Para acessar o trabalho escrito do projeto: https://ric.cps.sp.gov.br/
 
 Em caso de dúvidas entre em contato com rebeccabordignon11@gmail.com 
+
+Para acessar o trabalho escrito do projeto: https://ric.cps.sp.gov.br/
