@@ -31,17 +31,25 @@ Siga todos os passos para o website ser executado
 Instalado os aplicativos vamos para executar o site
 
 1- Baixe o zip conethar.zip e descompacte ele em alguma área do seu computador
+
 2- Abra o seu control panel do xampp e ative o MySQL e Apache, clique em admin do MySQL.
+
 3 - Após abrir o phpmyadmin em seu navegador, clique em +novo, em nome do banco de dados coloque folhapaga, clique em criar, vá na aba de importar, escolher um arquivo e agora vá ate onde descompactou o zip novamente, entre na pasta do conecthar, e vai estar lá folhapaga, clique nele para importar
+
 4- Abra o Visual Studio Code, no canto superior esquerdo vá até arquivo/file e aperte para abrir pasta/open folder, novamente escolha a pasta conecthar
+
 5- abra o terminal do Vs Code, na barra onde esta a pasta clique com o botão direito do mouse e vá na opção "abrir terminal integrado"/"Open in integrated terminal" vá na opção do cmd
+
 6- Primeiro entre na pasta do backend, npm install e depois npm run dev
+
 7- abra outra opção cmd, entre na pasta frontend, npm install e por último node.js
+
 8- digite http://localhost:3000
 
 O site foi iniciado com sucesso!
+<hr>
+<strong>Como citar o projeto</strong>
 
-##Como citar o projeto
 De Oliveira, Ana Luiza Teodoro Corrêa; Dos Reis, Ramon Viana Ferreira; Bordignon, Rebecca. Desenvolvimento de uma plataforma oara auxiliar na gestão documental e folha de pagamento do departamento pessoal em empresas de médio e pequeno porte. 2025. 35 p.
 
 Em caso de dúvidas entre em contato com rebeccabordignon11@gmail.com 
