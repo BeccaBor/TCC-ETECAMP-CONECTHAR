@@ -4,12 +4,12 @@
 <hr>
 <strong>Descrição</h2></strong>
 Sistema resolve o problema da ineficiência, desorganização e alto risco de erros nas rotinas de gestão documental e folha de pagamento do Departamento Pessoal em empresas de pequeno e médio porte.
-<hr>
+
 <strong>Grupo do TCC</h2></strong>
 -Ana Luiza Teodoro Correia de Oliveira- Front-end.
 -Ramon Viana Ferreira dos Reis - Parte escrita e responsavél por auxiliar todo o projeto no backend e frontend.
 -Rebecca Bordignon de Oliveira- Back-end.
-<hr>
+
 <strong> <h2>Tecnologia Utilizadas no sistema</h2></strong>
 -HTML- V5
 -CSS- V3 
@@ -17,10 +17,13 @@ Sistema resolve o problema da ineficiência, desorganização e alto risco de er
 -MYSQL- 8.0
 NODE.JS- v22.17.1
 HANDLEBARS- 4.7.8
-<hr>
+
 <strong> Algumas imagens do site</h2></strong>
+
 <img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/d629d371-fe68-4469-b1ac-68d8fa05f96b" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/5960563c-7b58-416b-8f60-b51d2a48ea57" />
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/7c7d4b80-863e-4c6e-a432-95cd5f5fb795" />
+
 <hr>
 <strong> <h2>Como executar o projeto</h2></strong>
 <strong>Siga todos os passos para o website ser executado </strong>
