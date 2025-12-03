@@ -1,34 +1,34 @@
 <img width="380" height="115" alt="Conecthar" src="https://github.com/user-attachments/assets/8297761b-da72-42a6-9e7e-761065af8675" />
 
-<strong> TCC-ETECAMP-CONECTHAR</strong>
-
-<strong>Descrição
+<strong> <h1>TCC-ETECAMP-CONECTHAR</h1></strong>
+<hr>
+<strong>Descrição</h2></strong>
 Sistema resolve o problema da ineficiência, desorganização e alto risco de erros nas rotinas de gestão documental e folha de pagamento do Departamento Pessoal em empresas de pequeno e médio porte.
-
-<strong>Grupo do TCC</strong>
+<hr>
+<strong>Grupo do TCC</h2></strong>
 -Ana Luiza Teodoro Correia de Oliveira- Front-end.
 -Ramon Viana Ferreira dos Reis - Parte escrita e responsavél por auxiliar todo o projeto no backend e frontend.
 -Rebecca Bordignon de Oliveira- Back-end.
-
-<strong>Tecnologia Utilizadas no sistema</strong>
+<hr>
+<strong> <h2>Tecnologia Utilizadas no sistema</h2></strong>
 -HTML- V5
 -CSS- V3 
 -JAVA SCRIPT- ECMAScript 2024 (ES2024)
 -MYSQL- 8.0
 NODE.JS- v22.17.1
 HANDLEBARS- 4.7.8
-
-<strong> Algumas imagens do site</strong>
+<hr>
+<strong> Algumas imagens do site</h2></strong>
 <img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/d629d371-fe68-4469-b1ac-68d8fa05f96b" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/5960563c-7b58-416b-8f60-b51d2a48ea57" />
-
+<hr>
 <strong> <h2>Como executar o projeto</h2></strong>
-Siga todos os passos para o website ser executado 
+<strong>Siga todos os passos para o website ser executado </strong>
 
 1- Entre no link para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação).
 2- Entre no link para instalar o xampp: https://www.apachefriends.org/pt_br/download.html (Baixa o pacote base para seu sistema e siga os passos de instalação)
 
-Instalado os aplicativos vamos para executar o site
+<strong>Instalado os aplicativos vamos para executar o site</strong>
 
 1- Baixe o zip conethar.zip e descompacte ele em alguma área do seu computador
 
@@ -46,9 +46,9 @@ Instalado os aplicativos vamos para executar o site
 
 8- digite http://localhost:3000
 
-O site foi iniciado com sucesso!
+<strong>O site foi iniciado com sucesso!</strong>
 <hr>
-<strong>Como citar o projeto</strong>
+<strong><h2>Como citar o projeto</h2></strong>
 
 De Oliveira, Ana Luiza Teodoro Corrêa; Dos Reis, Ramon Viana Ferreira; Bordignon, Rebecca. Desenvolvimento de uma plataforma oara auxiliar na gestão documental e folha de pagamento do departamento pessoal em empresas de médio e pequeno porte. 2025. 35 p.
 
