@@ -23,7 +23,7 @@ Sistema resolver o problema da ineficiência, desorganização e alto risco de e
 NODE.JS- v22.17.1
 GUIA- 4.7.8
 
-<forte> Algomas imagens do site</h2></forte>
+<forte> Algumas imagens do site</h2></forte>
 <img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/a6347c24-f4e6-48a9-81e7-f74a80fd3f81" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/8421f689-ab69-4141-b9a8-0fd6e1e78cf4" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/febcac52-472a-470d-b711-b6252d6903e8" />
