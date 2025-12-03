@@ -14,6 +14,8 @@ Sistema resolve o problema da ineficiência, desorganização e alto risco de er
 -HTML- V5
 -CSS- V3 
 -JAVA SCRIPT- ECMAScript 2024 (ES2024)
+
+
 -MYSQL- 8.0
 NODE.JS- v22.17.1
 HANDLEBARS- 4.7.8
