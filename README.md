@@ -1,4 +1,6 @@
-
+<p alinhar="centro">
+  <imagem fonte="https://github.com/user-attachments/assets/6e3afe2c-3948-402f-9e55-0b30bccff7ce" alt="Conecthar" largura="600" />
+</p>
 
 
 <forte> <h1>TCC-ETECAMP-CONECTHAR</h1></forte>
