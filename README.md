@@ -1,16 +1,16 @@
 <img width="380" height="115" alt="Conecthar" src="https://github.com/user-attachments/assets/8297761b-da72-42a6-9e7e-761065af8675" />
 
-# TCC-ETECAMP-CONECTHAR
+<strong> TCC-ETECAMP-CONECTHAR</strong>
 
-##Descrição
+<strong>Descrição
 Sistema resolve o problema da ineficiência, desorganização e alto risco de erros nas rotinas de gestão documental e folha de pagamento do Departamento Pessoal em empresas de pequeno e médio porte.
 
-##Grupo do TCC
+<strong>Grupo do TCC</strong>
 -Ana Luiza Teodoro Correia de Oliveira- Front-end.
 -Ramon Viana Ferreira dos Reis - Parte escrita e responsavél por auxiliar todo o projeto no backend e frontend.
 -Rebecca Bordignon de Oliveira- Back-end.
 
-##Tecnologia Utilizadas no sistema
+<strong>Tecnologia Utilizadas no sistema</strong>
 -HTML- V5
 -CSS- V3 
 -JAVA SCRIPT- ECMAScript 2024 (ES2024)
@@ -18,11 +18,11 @@ Sistema resolve o problema da ineficiência, desorganização e alto risco de er
 NODE.JS- v22.17.1
 HANDLEBARS- 4.7.8
 
-##Algumas imagens do site
+<strong> Algumas imagens do site</strong>
 <img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/d629d371-fe68-4469-b1ac-68d8fa05f96b" />
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/5960563c-7b58-416b-8f60-b51d2a48ea57" />
 
-##Como executar o projeto
+<strong> <h2>Como executar o projeto</h2></strong>
 Siga todos os passos para o website ser executado 
 
 1- Entre no link para baixar o Visual Studio Code: https://code.visualstudio.com/ (Baixa o pacote base para seu sistema e siga os passos de instalação).
