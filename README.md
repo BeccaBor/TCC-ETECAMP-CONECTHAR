@@ -1,5 +1,6 @@
 <p alinhar="centro">
-  <img font="https://github.com/user-attachments/assets/6e3afe2c-3948-402f-9e55-0b30bccff7ce" alt="Conecthar" largura="600" />
+ <img width="600" alt="Conecthar" src="https://github.com/user-attachments/assets/b5834e18-2713-4c27-821e-b53d172fafd0" />
+
 </p>
 
 
