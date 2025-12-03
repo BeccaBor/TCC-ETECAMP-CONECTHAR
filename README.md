@@ -1,4 +1,4 @@
-<img width="380" height="115" alt="Conecthar" src="https://github.com/user-attachments/assets/8297761b-da72-42a6-9e7e-761065af8675" />
+<img width="380" height="115" alt="Conecthar" src="https://github.com/user-attachments/assets/8297761b-da72-42a6-9e7e-761065af8675" style="align-itens:center" />
 
 <strong> <h1>TCC-ETECAMP-CONECTHAR</h1></strong>
 <hr>
