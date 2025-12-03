@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6e3afe2c-3948-402f-9e55-0b30bccff7ce" alt="Conecthar" width="600" />
+<p alinhar="centro">
+  <imagem fonte="https://github.com/user-attachments/assets/6e3afe2c-3948-402f-9e55-0b30bccff7ce" alt="Conecthar" largura="600" />
 </p>
 
 
@@ -25,9 +25,9 @@ GUIA- 4.7.8
 
 <forte> Algomas imagens do site</h2></forte>
 
-<img largura="1600" alta="794" alt="imagem" fonte="https://github.com/user-attachments/assets/d629d371-fe68-4469-b1ac-68d8fa05f96b" />
-<img largura="1600" alta="800" alt="imagem" fonte="https://github.com/user-attachments/assets/5960563c-7b58-416b-8f60-b51d2a48ea57" />
-<img largura="1600" alta="800" alt="imagem" fonte="https://github.com/user-attachments/assets/7c7d4b80-863e-4c6e-a432-95cd5f5fb795" />
+<imagem largura="1600" alta="794" alt="imagem" fonte="https://github.com/user-attachments/assets/d629d371-fe68-4469-b1ac-68d8fa05f96b" />
+<imagem largura="1600" alta="800" alt="imagem" fonte="https://github.com/user-attachments/assets/5960563c-7b58-416b-8f60-b51d2a48ea57" />
+<imagem largura="1600" alta="800" alt="imagem" fonte="https://github.com/user-attachments/assets/7c7d4b80-863e-4c6e-a432-95cd5f5fb795" />
 
 <hora>
 <forte> <h2>Como executar o projeto</h2></forte>
@@ -59,5 +59,7 @@ GUIA- 4.7.8
 <forte><h2>Como citar o projeto</h2></forte>
 
 De Oliveira, Ana Luiza Teodoro Corrêa; Dos Reis, Ramón Viana Ferreira; Bordignon, Rebeca. Desenvolvimento de uma plataforma aoara auxiliar na gestão documental e folha de pagamento do departamento pessoal em empresas de meio e pequeno porte. 2025. 35 p.
+
+Para acessar o trabalho escrito do projeto: https://ric.cps.sp.gov.br/
 
 Em caso de dúvidas entre em contato com rebeccabordignon11@gmail.com 
